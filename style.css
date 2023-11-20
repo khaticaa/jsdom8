@@ -1,0 +1,17 @@
+div {
+  width: 200px;
+  height: 200px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  flex-wrap: wrap;
+}
